@@ -11,11 +11,17 @@ __Data_set_link "https://media.geeksforgeeks.org/wp-content/uploads/202409191159
 
 The above👆 dataset when it is executed using pandas and numpy, it has columns "START_DATE","END_DATE","CATEGORY","START","STOP","MILES" and "PURPOSE".
 __START_DATE__.It show the shows the time when the journey started.
+
 __END_DATE__.Illustrates when the time when the trip ended.
+
 __CATEGORY__.The dataset is being classfied into two Business and personal and this helps us identify when uber is really in need.
+
 __START__Shows the exact location where the trip started.
+
 __STOP__Shows destination of the trip.
+
 __MILES__Illustartes the distance covered for the whole trip.
+
 __PURPOSE__The main reason of the trip which could include meal,meeting or else which i need to identify.
 
 
