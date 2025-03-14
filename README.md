@@ -7,5 +7,5 @@ __Exploratory data analysis (Cleaning data and data manipulation using pandas an
 
 __Interactive visuals(Using matplotlib and seaborn)__
 
-__Get Dataset__"UberDataset.csv"
+__Data_set "https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv"__
 
