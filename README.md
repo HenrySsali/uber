@@ -7,5 +7,8 @@ __Exploratory data analysis (Cleaning data and data manipulation using pandas an
 
 __Interactive visuals(Using matplotlib and seaborn)__
 
-__Data_set "https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv"__
+__Data_set_link "https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv"__
+
+The above dataset when it is executed using pandas and numpy, it has columns "START_DATE","END_DATE","CATEGORY","START","STOP","MILES" and "PURPOSE".
+
 
