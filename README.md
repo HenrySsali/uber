@@ -3,7 +3,9 @@
 ## PROJECT DESCRIPTION
 This project analyzes Uber ride data to uncover insights into customer behaviors on why they use uber.From the insights i want to know the peak ride times and popular destinations. By leveraging this data, we aim to provide recommendations for improving operational efficiency and user satisfaction and how to make uber rides available on that times .
 ## HIGHLIGHTS
-__.Exploratory data analysis (Cleaning data and data manipulation using pandas and Numpy)__
+__Exploratory data analysis (Cleaning data and data manipulation using pandas and Numpy)__
 
-__.Interactive visuals(Using matplotlib and seaborn)__
+__Interactive visuals(Using matplotlib and seaborn)__
+
+__Get Dataset__"UberDataset.csv"
 
