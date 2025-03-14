@@ -10,6 +10,7 @@ __Interactive visuals(Using matplotlib and seaborn)__
 __Data_set_link "https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv"__
 
 The above👆 dataset when it is executed using pandas and numpy, it has columns __"START_DATE"__,__"END_DATE"__,__"CATEGORY"__,__"START"__,__"STOP"__,__"MILES"__ and __"PURPOSE"__.
+
 __START_DATE__.It show the shows the time when the journey started.
 
 __END_DATE__.Illustrates when the time when the trip ended.
