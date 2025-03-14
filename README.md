@@ -27,4 +27,4 @@ __PURPOSE__.The main reason of the trip which could include meal,meeting or else
 
 
 ## CONCLUSION
-💁🏽‍♀️
+💁🏽‍♀️pictures/Screenshot 2025-03-12 123318.png
