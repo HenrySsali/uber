@@ -9,7 +9,7 @@ __Interactive visuals(Using matplotlib and seaborn)__
 
 __Data_set_link "https://media.geeksforgeeks.org/wp-content/uploads/20240919115958/UberDataset.csv"__
 
-The above👆 dataset when it is executed using pandas and numpy, it has columns __"START_DATE"__,__"END_DATE"__,__"CATEGORY"__,__"START"__,__"STOP"__,__"MILES"__ and __"PURPOSE"__.
+The above👆 dataset when it is executed using pandas and numpy, it has columns __"START_DATE"__,__"END_DATE"__,__"CATEGORY"__,__"START"__,__"STOP"__,__"MILES"__ and __"PURPOSE"__.In short 7 columns and 1156 rows ,which makes it to have a shape of (1156,7).
 
 __START_DATE__.It show the shows the time when the journey started.
 
@@ -26,4 +26,5 @@ __MILES__.Illustartes the distance covered for the whole trip.
 __PURPOSE__.The main reason of the trip which could include meal,meeting or else which i need to identify.
 
 
-
+## CONCLUSION
+💁🏽‍♀️
