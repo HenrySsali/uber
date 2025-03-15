@@ -12,7 +12,7 @@ __Data_set_link "https://media.geeksforgeeks.org/wp-content/uploads/202409191159
 
 The above👆 dataset when it is executed using pandas and numpy, it has columns __"START_DATE"__,__"END_DATE"__,__"CATEGORY"__,__"START"__,__"STOP"__,__"MILES"__ and __"PURPOSE"__.In short 7 columns and 1156 rows ,which makes it to have a shape of (1156,7).
 
-__START_DATE__.It show the shows the time when the journey started.
+__START_DATE__.It show the time when the journey started.
 
 __END_DATE__.Illustrates when the time when the trip ended.
 
