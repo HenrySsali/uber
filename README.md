@@ -28,4 +28,4 @@ __> PURPOSE__.The main reason of the trip which could include meal,meeting or el
 
 
 ## CONCLUSION
-💁🏽‍♀️https://github.com/HenrySsali/uber/blob/main/pictures/image9.png
+__.Most of the rides are booked for Business purposes more than personal use ,this is clearly shown by the visual on the left hand side when you click on this link 
