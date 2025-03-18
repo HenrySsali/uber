@@ -29,5 +29,7 @@ __> PURPOSE__.The main reason of the trip which could include meal,meeting or el
 
 ## CONCLUSION
 __.Most of the rides are booked for Business purposes more than personal use ,this is clearly shown by the visual on the left hand side of this link.__ https://github.com/HenrySsali/uber/blob/main/pictures/image10.png
+
 __.From this link we can state that most of the uber rides are mostly booked  in the Afternoon from 10am-5pm more than 400 requests,followed by Evening .__ https://github.com/HenrySsali/uber/blob/main/pictures/image13.png
-__.By comparing two different categories (Business and Personal) with purpose of the user, customers book uber  mostly for Meeting and Meal/Entertainment as shown by this link.__
+
+__.By comparing two different categories (Business and Personal) with purpose of the user, customers book uber  mostly for Meeting and Meal/Entertainment as shown by this link.__ https://github.com/HenrySsali/uber/blob/main/pictures/image14.png
